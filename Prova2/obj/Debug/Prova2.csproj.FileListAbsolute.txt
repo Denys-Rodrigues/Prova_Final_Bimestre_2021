@@ -52,7 +52,6 @@ C:\Users\denys\Desktop\Prova2\Prova2\bin\pt-br\System.Web.Webpages.Deployment.re
 C:\Users\denys\Desktop\Prova2\Prova2\bin\pt-br\System.Web.Webpages.Razor.resources.dll
 C:\Users\denys\Desktop\Prova2\Prova2\bin\pt-br\System.Web.Helpers.resources.dll
 C:\Users\denys\Desktop\Prova2\Prova2\bin\pt-br\System.Web.Mvc.resources.dll
-C:\Users\denys\Desktop\Prova2\Prova2\obj\Debug\Prova2.csproj.AssemblyReference.cache
 C:\Users\denys\Desktop\Prova2\Prova2\obj\Debug\Prova2.csproj.CoreCompileInputs.cache
 C:\Users\denys\Desktop\Prova2\Prova2\obj\Debug\Prova2.csproj.CopyComplete
 C:\Users\denys\Desktop\Prova2\Prova2\obj\Debug\Prova2.dll
