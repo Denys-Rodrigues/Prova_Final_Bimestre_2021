@@ -56,3 +56,4 @@ C:\Users\denys\Desktop\Prova2\Prova2\obj\Debug\Prova2.csproj.CoreCompileInputs.c
 C:\Users\denys\Desktop\Prova2\Prova2\obj\Debug\Prova2.csproj.CopyComplete
 C:\Users\denys\Desktop\Prova2\Prova2\obj\Debug\Prova2.dll
 C:\Users\denys\Desktop\Prova2\Prova2\obj\Debug\Prova2.pdb
+C:\Users\denys\Desktop\Prova2\Prova2\obj\Debug\Prova2.csproj.AssemblyReference.cache
